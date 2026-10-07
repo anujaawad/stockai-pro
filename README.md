@@ -1,6 +1,7 @@
 # StockAI Pro
 
-AI-powered stock analysis chatbot on Cloudflare Workers. Ask a question in plain English (e.g. *"What is Apple's stock price and RSI?"*) and get live market data, a custom RSI indicator, and LLM-generated insights in one response.
+AI-powered stock analysis chatbot on Cloudflare Workers. Ask a question in plain English (e.g. *"What is Apple's stock price and RSI?"*
+*"What is Tesla's current stock price?"*) and get live market data, a custom RSI indicator, and LLM-generated insights in one response.
 
 **Live demo:** https://stock-chatbot.anujaawad6.workers.dev
 
